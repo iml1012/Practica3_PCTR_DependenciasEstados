@@ -1,0 +1,1597 @@
+¡Parque abierto!
+Entrada por puerta A
+--> Personas en el parque 1
+----> Por puerta A 1
+ 
+Salida por puerta E
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E -1
+ 
+Entrada por puerta E
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 0
+ 
+Salida por puerta D
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D -1
+ 
+Entrada por puerta D
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+ 
+Entrada por puerta C
+--> Personas en el parque 2
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 1
+ 
+Salida por puerta B
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta B
+--> Personas en el parque 2
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Salida por puerta A
+--> Personas en el parque 1
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Entrada por puerta D
+--> Personas en el parque 2
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Entrada por puerta C
+--> Personas en el parque 3
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Salida por puerta C
+--> Personas en el parque 2
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Salida por puerta C
+--> Personas en el parque 1
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B 0
+ 
+Salida por puerta B
+--> Personas en el parque 0
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta E
+--> Personas en el parque 1
+----> Por puerta A 0
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 2
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 3
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 4
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta E
+--> Personas en el parque 5
+----> Por puerta A 3
+----> Por puerta E 2
+----> Por puerta D 1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 4
+----> Por puerta A 3
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 3
+----> Por puerta A 3
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 2
+----> Por puerta A 3
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta E
+--> Personas en el parque 1
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta B
+--> Personas en el parque 0
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Entrada por puerta D
+--> Personas en el parque 1
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Salida por puerta A
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Entrada por puerta A
+--> Personas en el parque 1
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Salida por puerta A
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Entrada por puerta E
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -2
+ 
+Salida por puerta C
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C -1
+----> Por puerta B -2
+ 
+Entrada por puerta B
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C -1
+----> Por puerta B -1
+ 
+Entrada por puerta B
+--> Personas en el parque 2
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C -1
+----> Por puerta B 0
+ 
+Salida por puerta C
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C -2
+----> Por puerta B 0
+ 
+Salida por puerta E
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C -2
+----> Por puerta B 0
+ 
+Entrada por puerta C
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C -1
+----> Por puerta B 0
+ 
+Entrada por puerta C
+--> Personas en el parque 2
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B 0
+ 
+Entrada por puerta C
+--> Personas en el parque 3
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Entrada por puerta C
+--> Personas en el parque 4
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Salida por puerta A
+--> Personas en el parque 3
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Entrada por puerta B
+--> Personas en el parque 4
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 5
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 4
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 1
+ 
+Salida por puerta B
+--> Personas en el parque 3
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 0
+ 
+Salida por puerta B
+--> Personas en el parque 2
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta D
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta E
+--> Personas en el parque 2
+----> Por puerta A 2
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta E
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta B
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -2
+ 
+Entrada por puerta B
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta A
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta D
+--> Personas en el parque 1
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Salida por puerta C
+--> Personas en el parque 0
+----> Por puerta A 1
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 1
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Salida por puerta D
+--> Personas en el parque 0
+----> Por puerta A 2
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 1
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta A
+--> Personas en el parque 2
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 0
+----> Por puerta B -1
+ 
+Entrada por puerta C
+--> Personas en el parque 3
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B -1
+ 
+Entrada por puerta C
+--> Personas en el parque 4
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 2
+----> Por puerta B -1
+ 
+Entrada por puerta B
+--> Personas en el parque 5
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Entrada por puerta B
+--> Personas en el parque 6
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta B
+--> Personas en el parque 5
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Entrada por puerta D
+--> Personas en el parque 6
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 0
+ 
+Entrada por puerta B
+--> Personas en el parque 7
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta E
+--> Personas en el parque 8
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta E
+--> Personas en el parque 7
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta E
+--> Personas en el parque 6
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 5
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D -1
+----> Por puerta C 1
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 4
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 3
+----> Por puerta A 3
+----> Por puerta E 0
+----> Por puerta D -2
+----> Por puerta C 1
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 4
+----> Por puerta A 3
+----> Por puerta E 0
+----> Por puerta D -2
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 5
+----> Por puerta A 3
+----> Por puerta E 0
+----> Por puerta D -2
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta E
+--> Personas en el parque 6
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -2
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 7
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D -1
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 8
+----> Por puerta A 3
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta A
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Entrada por puerta E
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta B
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 0
+ 
+Entrada por puerta E
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 3
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 0
+ 
+Entrada por puerta A
+--> Personas en el parque 12
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 0
+ 
+Entrada por puerta B
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 12
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta E
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta C
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 12
+----> Por puerta A 4
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Entrada por puerta D
+--> Personas en el parque 12
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Salida por puerta C
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta C
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 11
+----> Por puerta A 5
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 12
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 13
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 12
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 11
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 10
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 11
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 12
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 13
+----> Por puerta A 7
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta C
+--> Personas en el parque 14
+----> Por puerta A 7
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta C
+--> Personas en el parque 15
+----> Por puerta A 7
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 16
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 17
+----> Por puerta A 7
+----> Por puerta E 5
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 16
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Entrada por puerta D
+--> Personas en el parque 17
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 16
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D 0
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 15
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 14
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -2
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta D
+--> Personas en el parque 13
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -3
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 14
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -3
+----> Por puerta C 5
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 13
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -3
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 12
+----> Por puerta A 7
+----> Por puerta E 4
+----> Por puerta D -3
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Salida por puerta E
+--> Personas en el parque 11
+----> Por puerta A 7
+----> Por puerta E 3
+----> Por puerta D -3
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 10
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -3
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 9
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -3
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 10
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 11
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 12
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 15
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 15
+----> Por puerta A 5
+----> Por puerta E 4
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta D
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 4
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 14
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 13
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 12
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 11
+----> Por puerta A 6
+----> Por puerta E 3
+----> Por puerta D -2
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Salida por puerta E
+--> Personas en el parque 10
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 11
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 4
+----> Por puerta B 1
+ 
+Entrada por puerta C
+--> Personas en el parque 12
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 13
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta B
+--> Personas en el parque 14
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -2
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Entrada por puerta D
+--> Personas en el parque 15
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D -1
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Entrada por puerta D
+--> Personas en el parque 16
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D 0
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Entrada por puerta D
+--> Personas en el parque 17
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D 1
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Salida por puerta C
+--> Personas en el parque 16
+----> Por puerta A 6
+----> Por puerta E 2
+----> Por puerta D 1
+----> Por puerta C 4
+----> Por puerta B 3
+ 
+Salida por puerta A
+--> Personas en el parque 15
+----> Por puerta A 5
+----> Por puerta E 2
+----> Por puerta D 1
+----> Por puerta C 4
+----> Por puerta B 3
+ 
+Salida por puerta E
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 4
+----> Por puerta B 3
+ 
+Salida por puerta E
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 4
+----> Por puerta B 3
+ 
+Entrada por puerta C
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Entrada por puerta E
+--> Personas en el parque 15
+----> Por puerta A 5
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 5
+----> Por puerta B 3
+ 
+Salida por puerta B
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta D
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 14
+----> Por puerta A 6
+----> Por puerta E 1
+----> Por puerta D 0
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta D
+--> Personas en el parque 15
+----> Por puerta A 6
+----> Por puerta E 1
+----> Por puerta D 1
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta D
+--> Personas en el parque 16
+----> Por puerta A 6
+----> Por puerta E 1
+----> Por puerta D 2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 15
+----> Por puerta A 6
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 14
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 13
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Entrada por puerta D
+--> Personas en el parque 14
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 3
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 13
+----> Por puerta A 4
+----> Por puerta E -1
+----> Por puerta D 3
+----> Por puerta C 5
+----> Por puerta B 2
+ 
+Salida por puerta C
+--> Personas en el parque 12
+----> Por puerta A 4
+----> Por puerta E -1
+----> Por puerta D 3
+----> Por puerta C 4
+----> Por puerta B 2
+ 
+Salida por puerta C
+--> Personas en el parque 11
+----> Por puerta A 4
+----> Por puerta E -1
+----> Por puerta D 3
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 12
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 3
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta B
+--> Personas en el parque 13
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 3
+----> Por puerta C 3
+----> Por puerta B 3
+ 
+Salida por puerta D
+--> Personas en el parque 12
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 3
+----> Por puerta B 3
+ 
+Entrada por puerta A
+--> Personas en el parque 13
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 3
+----> Por puerta B 3
+ 
+Salida por puerta B
+--> Personas en el parque 12
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta D
+--> Personas en el parque 11
+----> Por puerta A 5
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E -1
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 8
+----> Por puerta A 4
+----> Por puerta E -2
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E -1
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 10
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 3
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 8
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 1
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta D
+--> Personas en el parque 9
+----> Por puerta A 4
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Salida por puerta A
+--> Personas en el parque 8
+----> Por puerta A 3
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 9
+----> Por puerta A 3
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 8
+----> Por puerta A 2
+----> Por puerta E 0
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 7
+----> Por puerta A 2
+----> Por puerta E -1
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Entrada por puerta A
+--> Personas en el parque 8
+----> Por puerta A 3
+----> Por puerta E -1
+----> Por puerta D 2
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta D
+--> Personas en el parque 7
+----> Por puerta A 3
+----> Por puerta E -1
+----> Por puerta D 1
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta D
+--> Personas en el parque 6
+----> Por puerta A 3
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 2
+----> Por puerta B 2
+ 
+Salida por puerta C
+--> Personas en el parque 5
+----> Por puerta A 3
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 4
+----> Por puerta A 2
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 2
+ 
+Salida por puerta E
+--> Personas en el parque 3
+----> Por puerta A 2
+----> Por puerta E -2
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 2
+ 
+Entrada por puerta E
+--> Personas en el parque 4
+----> Por puerta A 2
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 3
+----> Por puerta A 2
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 1
+----> Por puerta B 1
+ 
+Salida por puerta C
+--> Personas en el parque 2
+----> Por puerta A 2
+----> Por puerta E -1
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 1
+ 
+Entrada por puerta E
+--> Personas en el parque 3
+----> Por puerta A 2
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 1
+ 
+mar 18, 2024 11:48:03 P. M. src.p03.c01.ActividadSalidaPuerta run
+INFORMACIÓN: Finalizada salida por la puerta E
+Entrada por puerta B
+--> Personas en el parque 4
+----> Por puerta A 2
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 3
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 2
+ 
+mar 18, 2024 11:48:05 P. M. src.p03.c01.ActividadSalidaPuerta run
+INFORMACIÓN: Finalizada salida por la puerta C
+mar 18, 2024 11:48:06 P. M. src.p03.c01.ActividadSalidaPuerta run
+INFORMACIÓN: Finalizada salida por la puerta D
+Entrada por puerta B
+--> Personas en el parque 4
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 3
+ 
+Entrada por puerta B
+--> Personas en el parque 5
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 4
+ 
+Salida por puerta B
+--> Personas en el parque 4
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 3
+ 
+Salida por puerta B
+--> Personas en el parque 3
+----> Por puerta A 1
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 2
+ 
+Salida por puerta A
+--> Personas en el parque 2
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 2
+ 
+Salida por puerta B
+--> Personas en el parque 1
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 1
+ 
+Entrada por puerta B
+--> Personas en el parque 2
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 2
+ 
+mar 18, 2024 11:48:08 P. M. src.p03.c01.ActividadSalidaPuerta run
+INFORMACIÓN: Finalizada salida por la puerta A
+Salida por puerta B
+--> Personas en el parque 1
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 1
+ 
+Salida por puerta B
+--> Personas en el parque 0
+----> Por puerta A 0
+----> Por puerta E 0
+----> Por puerta D 0
+----> Por puerta C 0
+----> Por puerta B 0
+ 
+mar 18, 2024 11:48:14 P. M. src.p03.c01.ActividadSalidaPuerta run
+INFORMACIÓN: Finalizada salida por la puerta B
